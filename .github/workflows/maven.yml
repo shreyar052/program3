@@ -15,7 +15,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  git:
+  maven:
 
     runs-on: ubuntu-latest
 
